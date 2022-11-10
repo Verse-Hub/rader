@@ -1,3 +1,5 @@
+local scriptver = 'v1.2.1'
+
 if ( _G.RadarKill ) then
     _G.RadarKill()
 end
